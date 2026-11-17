@@ -1,0 +1,16 @@
+sentido,paradero,probabilidad,significado,fuente
+ida,parque,0.3,origen del pasajero,sintética
+ida,unicentro,0.15,origen del pasajero,sintética
+ida,tecniguayas,0.1,origen del pasajero,sintética
+ida,frente_colegio_industrial,0.1,origen del pasajero,sintética
+ida,makro,0.1,origen del pasajero,sintética
+ida,alborada,0.1,origen del pasajero,sintética
+ida,universidad_cooperativa,0.1,origen del pasajero,sintética
+ida,eds_primax_ocoa,0.05,origen del pasajero,sintética
+vuelta,universidad_cooperativa,0.1,destino del pasajero,sintética
+vuelta,alborada,0.1,destino del pasajero,sintética
+vuelta,makro,0.1,destino del pasajero,sintética
+vuelta,frente_colegio_industrial,0.1,destino del pasajero,sintética
+vuelta,tecniguayas,0.1,destino del pasajero,sintética
+vuelta,unicentro,0.15,destino del pasajero,sintética
+vuelta,parque,0.35,destino del pasajero,sintética

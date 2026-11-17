@@ -1,0 +1,11 @@
+sentido,franja,horario,pasajeros_por_hora,fuente
+ida,pico_am,05:30-07:00,140,sintética
+ida,pico_md,11:00-14:00,90,sintética
+ida,valle,resto del día,45,sintética
+ida,pico_pm,17:30-19:00,30,sintética
+ida,noche,19:00-21:55,30,sintética
+vuelta,pico_am,05:30-07:00,0,sintética
+vuelta,pico_md,11:00-14:00,130,sintética
+vuelta,valle,resto del día,45,sintética
+vuelta,pico_pm,17:30-19:00,150,sintética
+vuelta,noche,19:00-21:55,30,sintética

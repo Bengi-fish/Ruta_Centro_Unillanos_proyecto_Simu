@@ -1,0 +1,17 @@
+parametro,valor,unidad,fuente
+buses en la ruta (E1),5,buses,grupo
+buses en la ruta (E2),3,buses,enunciado: dos unidades en mantenimiento
+buses que inician el día en el Parque,"la mitad redondeada hacia arriba (E1: 3, E2: 2)",buses,supuesto: el resto inicia en Barcelona
+puestos sentados,41,pasajeros,grupo
+capacidad total,51,pasajeros,grupo
+horario de servicio (ambos sentidos),5:20 a 22:00,,grupo
+intervalo entre salidas,20,min,grupo
+salida sin bus disponible,sale tarde; no se cancela ni se fusiona,,grupo
+factor bus frente a automóvil,1.1,,grupo
+alistamiento en cada extremo,5.0,min,grupo
+tiempo fijo por parada,10,s,"TCQSM (Kittelson et al., 2013)"
+tiempo de abordaje,3,s por pasajero,"TCQSM (Kittelson et al., 2013)"
+tiempo de descenso,2,s por pasajero,"TCQSM (Kittelson et al., 2013)"
+apertura si mín = máx,0.5,± min,supuesto
+factor de demanda (E2),1.4,,supuesto
+factor de congestión vía al campus (E2),1.35,,supuesto

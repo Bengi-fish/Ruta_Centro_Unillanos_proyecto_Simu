@@ -1,0 +1,15 @@
+# AnyLogic: base de datos interna que se regenera al abrir el modelo
+modelo_anylogic/database/
+*.alp~
+*.bak
+
+# LaTeX
+articulo/*.aux
+articulo/*.log
+articulo/*.out
+articulo/*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
